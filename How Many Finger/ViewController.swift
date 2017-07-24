@@ -13,7 +13,6 @@ class ViewController: UIViewController {
     var intTextField = 0
     
     
-    
     @IBOutlet weak var numberTextField: UITextField!
     
     @IBOutlet weak var shewTextLabel: UILabel!
